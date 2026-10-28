@@ -1,0 +1,4 @@
+streamlit==1.66.1
+pandas==3.1.0
+google-genai==2.33.0
+sqlglot==30.25.0
